@@ -19,7 +19,7 @@ Open source code for AIOpsServing
 
 ## 安装运行
 ```commandline
-python 3.7.10
+# require python >= 3.7.10
 
 pip install alibaba-aiopsserving
 
