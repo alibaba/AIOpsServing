@@ -21,7 +21,8 @@ Open source code for AIOpsServing
 ```commandline
 # require python >= 3.7.10
 
-pip install alibaba-aiopsserving
+# pip install alibaba-aiopsserving (future)
+pip install git+https://github.com/alibaba/AIOpsServing.git
 
 ziya --version
 ```
