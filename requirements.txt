@@ -1,0 +1,15 @@
+mlflow==1.24.0
+alibabacloud-fc-open20210406
+pandas
+oss2
+pyodps
+tornado
+hug
+sklearn
+ray==1.7.0
+protobuf==3.20
+docker==6.0.0
+ray[serve]
+joblib
+git+https://github.com/aliyun/fc-python-sdk.git#egg=aliyun-fc2
+scikit-learn
